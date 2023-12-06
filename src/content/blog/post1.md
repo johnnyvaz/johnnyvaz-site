@@ -2,7 +2,7 @@
 title: "Palestra na FATEC"
 description: "Qual curso estudar? vale a pena essa tecnologia? qual impacto de não ter experiência em tal tecnologia? como que eu pratico isso que estudei?"
 pubDate: "Oct 26 2023"
-heroImage: "https://media.licdn.com/dms/image/D4D22AQGDyOKRC9aC4Q/feedshare-shrink_1280/0/1698336221790?e=1701302400&v=beta&t=8sQUntkY1t6MZ30YFxu0BF0usU4Tjq9G_k8ivRVmTXc"
+heroImage: "/fatec1.jpeg"
 tags: ["ppa"]
 ---
 
