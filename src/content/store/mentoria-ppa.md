@@ -5,7 +5,7 @@ custom_link_label: ""
 custom_link: ""
 updatedDate: "Dec 15 2022"
 pricing: "R$ 996,00"
-badge: "Novo"
+badge: "Agende a primeira aula gratuitamente!"
 checkoutUrl: "https://chk.eduzz.com/2171658"
 heroImage: "/mentoria-ppa.png"
 ---
@@ -24,4 +24,4 @@ Não apenas uma mentoria, mas uma parceria para alcançar seus objetivos.
 
 🔗💡 Vamos juntos prosseguir para o alvo! Me chame no direct do instagram para mais detalhes ou envie uma mensagem para iniciar sua jornada de transformação. 🚀🌟 
 
-https://ig.me/m/johnnyvaz1
+[Clique aqui para agendamento da primeira aula](https://calendly.com/johnnyvaz/mentoria)
