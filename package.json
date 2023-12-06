@@ -23,6 +23,7 @@
     "sharp": "^0.32.5"
   },
   "devDependencies": {
-    "@tailwindcss/typography": "^0.5.10"
+    "@tailwindcss/typography": "^0.5.10",
+    "@vite-pwa/astro": "^0.2.0"
   }
 }
