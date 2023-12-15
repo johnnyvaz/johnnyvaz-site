@@ -1,27 +1,21 @@
 ---
-title: "Mentoria para projeto FrontEnd"
-description: "Desperte o potencial máximo da sua carreira com a Mentoria PPA! 🚀 Guiado por trilhas personalizadas, mergulhe em projetos reais e experiências práticas."
-custom_link_label: ""
-custom_link: ""
+title: "Mentoria PPA - Projeto E-commerce"
+description: "30 dias em um projeto de desenvolvimento prático, usando metodologias ágeis, desenvolvendo linguagem de programação e c."
+custom_link_label: "Falar com suporte"
+custom_link: "https://calendar.app.google/2MFYhyCoHmXRejgm8"
 updatedDate: "Dec 15 2022"
 pricing: "R$ 996,00"
-badge: "Agende a primeira aula gratuitamente!"
+badge: "Início dia 18/12/2023"
 checkoutUrl: "https://chk.eduzz.com/2171658"
 heroImage: "/mentoria-ppa.png"
 ---
+🚀 Mentoria PPA - Projeto E-commerce 🎯
 
-🚀 Transforme sua carreira com a Mentoria PPA - Prosseguindo para o Alvo! 🎯
+Transforme 30 dias em uma jornada prática de desenvolvimento! 🛠️ Aprimore suas habilidades com uma abordagem abrangente das metodologias ágeis, incluindo Scrum, Kanban, XP, TDD, FDD, e SOLID. Além disso, aprofunde-se nos princípios fundamentais da Programação Orientada a Objetos para construir uma base sólida no desenvolvimento de projetos práticos.
 
-Seja guiado por um sistema de aprendizagem inovador, baseado em trilhas personalizadas para atingir seus objetivos profissionais. 💻✨
+Utilize diversas linguagens e tecnologias como Javascript, Nodejs, React, HTML, CSS, PHP, SQL, Shellscript, entre outras. Mergulhe no código por trás do e-commerce! 💻✨
 
-Com a execução de projetos reais, mergulhe em um fluxo de desenvolvimento autêntico, proporcionando experiências práticas e resultados tangíveis. 🛠️📈
+📅 Início em 18/12/2023
+💰 Investimento: R$ 996,00
 
-Receba um acompanhamento técnico personalizado, direto de Johnny Vaz, especialista em metodologias ágeis. 🧑‍💻💬
-
-Na Mentoria PPA, você será encorajado a explorar tecnologias de ponta, impulsionando sua trajetória com o que há de mais atual no mercado. 🚀🌐
-
-Não apenas uma mentoria, mas uma parceria para alcançar seus objetivos. 
-
-🔗💡 Vamos juntos prosseguir para o alvo! Me chame no direct do instagram para mais detalhes ou envie uma mensagem para iniciar sua jornada de transformação. 🚀🌟 
-
-[Clique aqui para agendamento da primeira aula](https://calendly.com/johnnyvaz/mentoria)
+Não perca a oportunidade de elevar suas habilidades de forma prática e orientada para resultados tangíveis. Vamos juntos prosseguir para o alvo! 🚀🌐 #MentoriaPPA #DesenvolvimentoEcommerce
