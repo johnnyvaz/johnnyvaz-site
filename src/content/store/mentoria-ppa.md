@@ -5,7 +5,7 @@ custom_link_label: "Falar com suporte"
 custom_link: "https://calendar.app.google/2MFYhyCoHmXRejgm8"
 updatedDate: "Dec 15 2022"
 pricing: "R$ 996,00"
-badge: "Início dia 18/12/2023"
+badge: "ENCERRADO"
 checkoutUrl: "https://chk.eduzz.com/2171658"
 heroImage: "/mentoria-ppa.png"
 ---
