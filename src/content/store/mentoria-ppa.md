@@ -3,9 +3,9 @@ title: "Mentoria Exclusiva para a Criação de Trilha de Aprendizagem em Desenvo
 description: "3 Encontros para criação da sua trilha de aprendizagem, totalmente personalizado conforme o seu alvo."
 custom_link_label: "Agende para falar com suporte"
 custom_link: "https://calendar.app.google/2MFYhyCoHmXRejgm8"
-updatedDate: "Dec 15 2022"
+updatedDate: "May 15 2024"
 pricing: "R$ 97,00"
-badge: "ENCERRADO"
+badge: "VAGAS LIMITADAS"
 checkoutUrl: "https://checkout4.xgrow.com/pt/143a620f-2faf-4129-80b6-44b27752b33a/MjM1OTU="
 heroImage: "/mentoria-ppa.png"
 ---
