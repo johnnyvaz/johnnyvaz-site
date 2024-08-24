@@ -1,0 +1,58 @@
+---
+const { title, img, desc, url, badge, tags, target = "_blank" } = Astro.props;
+import { Image } from "astro:assets";
+const tag_url = url.split("/").slice(0, -1).join("/") + "/tag";
+---
+
+<div
+  class="rounded-lg bg-base-100 hover:shadow-xl transition ease-in-out hover:scale-[102%]"
+>
+  <a href={url} target={target}>
+    <div class="hero-content flex-col md:flex-row">
+      {
+        img && (
+          <Image
+            src={img}
+            width={750}
+            height={422}
+            format="webp"
+            alt={title}
+            class="max-w-full md:max-w-[13rem] rounded-lg"
+          />
+        )
+      }
+      <div class="grow w-full">
+        <h1 class="text-xl font-bold">
+          {title}
+          {badge && <div class="badge badge-secondary mx-2">{badge}</div>}
+        </h1>
+        <div class="py-1 text-1xl">
+          <ul>
+            <li>Aula 1 - Cadastro no Github</li>
+            <li>Aula 2 - Fork</li>
+            <li>Aula 3 - Instalação do GIT</li>
+            <li>Aula 4 - Git Clone</li>
+            <li>Aula 5 - VS Code</li>
+            <li>Aula 6 - Instalação NodeJS</li>
+            <li>Aula 7 - Executando o site local</li>
+            <li>Aula 8 - Criar Branch</li>
+            <li>Aula 9 - Criar Novo arquivo</li>
+            <li>Aula 10 - Ajustar Texto</li>
+            <li>Aula 11 - Git Commit / Pull</li>
+            <li>Aula 12 - Pull Request</li>
+          </ul>
+        </div>
+        <div class="card-actions justify-end">
+          {
+            tags &&
+              tags.map((tag) => (
+                <a href={`${tag_url}/${tag}`} class="badge badge-outline">
+                  {tag}
+                </a>
+              ))
+          }
+        </div>
+      </div>
+    </div>
+  </a>
+</div>

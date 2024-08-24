@@ -2,6 +2,7 @@
 import BaseLayout from "../layouts/BaseLayout.astro";
 import HorizontalCard from "../components/HorizontalCard.astro";
 import { getCollection } from "astro:content";
+import HorizontalCardLista from "@components/HorizontalCardLista.astro";
 
 const posts = (await getCollection("blog")).sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
@@ -21,10 +22,10 @@ Mais de 4 anos de experiência como Analista e Desenvolvedor de Sistemas, trabal
       </text>
     </div>
     <div class="mt-8">
-      <a class="btn btn-info" href="https://www.instagram.com/johnnyvaz1" target="_blank">
-        Instagram</a>
+      <!-- <a class="btn btn-info" href="https://www.instagram.com/johnnyvaz1" target="_blank">
+        Instagram</a> -->
       <a href="https://calendar.app.google/2MFYhyCoHmXRejgm8" target="_blank" class="btn btn-warning ml-5">
-        Agendamento - Primeira hora gratuita
+        Link de Agendamento de Reunião
       </a>
     </div>
   </div>
@@ -39,6 +40,14 @@ Mais de 4 anos de experiência como Analista e Desenvolvedor de Sistemas, trabal
     desc="Guia para transição de carreira na área de tecnologia."
     url="https://lp.johnnyvaz.com.br/ebook"
     badge="NEW"
+  />
+  <div class="divider my-0"></div>
+  
+  <HorizontalCardLista
+    title="Curso de Programação Básico - Módulo de Git/Github"
+    img="/playlist-git.png"
+    url="https://www.youtube.com/playlist?list=PLHwbOp0omtF9w_FHTD7cb2trwjRQvXP7Y"
+    badge="CURSO"
   />
   <div class="divider my-0"></div>
   <!-- <HorizontalCard
